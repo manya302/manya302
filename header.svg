@@ -13,11 +13,9 @@
 
   <rect width="700" height="120" fill="#faf8f3" rx="12"/>
 
-  <text x="36" y="76" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="700" fill="#534AB7">hey, i'm </text>
+  <text x="36" y="76" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="700">
+    <tspan fill="#534AB7">Hey, I'm </tspan><tspan fill="url(#nameGrad)">Manya!</tspan>
+  </text>
 
-  <text x="310" y="76" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="700" fill="url(#nameGrad)">Manya</text>
-
-  <text x="556" y="76" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="44" fill="#2C2C2A"> 👋</text>
-
-  <text x="36" y="104" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#888780">CS undergrad. equal parts curious and confused.</text>
+  <text x="36" y="108" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#888780">CS undergrad. equal parts curious and confused.</text>
 </svg>
