@@ -1,0 +1,23 @@
+<svg viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg" width="700" height="120">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#534AB7"/>
+      <stop offset="50%"  stop-color="#D85A30"/>
+      <stop offset="100%" stop-color="#BA7517"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#faf8f3"/>
+      <stop offset="100%" stop-color="#faf8f3"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="700" height="120" fill="#faf8f3" rx="12"/>
+
+  <text x="36" y="76" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="700" fill="#534AB7">hey, i'm </text>
+
+  <text x="310" y="76" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="700" fill="url(#nameGrad)">Manya</text>
+
+  <text x="556" y="76" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="44" fill="#2C2C2A"> 👋</text>
+
+  <text x="36" y="104" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#888780">CS undergrad. equal parts curious and confused.</text>
+</svg>
