@@ -1,21 +1,18 @@
-<svg viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg" width="700" height="120">
+<svg viewBox="0 0 700 150" xmlns="http://www.w3.org/2000/svg" width="700" height="150">
   <defs>
     <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="#534AB7"/>
       <stop offset="50%"  stop-color="#D85A30"/>
       <stop offset="100%" stop-color="#BA7517"/>
     </linearGradient>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#faf8f3"/>
-      <stop offset="100%" stop-color="#faf8f3"/>
-    </linearGradient>
   </defs>
 
-  <rect width="700" height="120" fill="#faf8f3" rx="12"/>
+  <rect width="700" height="150" fill="#faf8f3" rx="12"/>
 
-  <text x="36" y="76" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="700">
+  <text x="36" y="72" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="700">
     <tspan fill="#534AB7">Hey, I'm </tspan><tspan fill="url(#nameGrad)">Manya!</tspan>
   </text>
 
-  <text x="36" y="108" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#888780">CS undergrad. equal parts curious and confused.</text>
+  <text x="36" y="102" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#4A4A48">CS undergrad. equal parts curious and confused ¯\_(ツ)_/¯</text>
+  <text x="36" y="126" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#5F5E5A">I like movies, music, and figuring out how things work :)</text>
 </svg>
